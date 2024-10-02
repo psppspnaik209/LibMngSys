@@ -1,0 +1,10 @@
+ID,Type,Cost,Status,LoanPeriod,Title,Author/Artist,ISBN/Tracks/RunTime,Category/Genre/Studio,ReleaseDate
+1001,Book,15.99,In,21,Book_1,Author_1,0000000000000,Fiction,
+1002,Book,12.99,In,21,Book_2,Author_2,1111111111111,Fiction,
+1003,AudioCD,9.99,In,14,Track_1,Artist_1,9,Pop,1985-11-25
+1004,AudioCD,14.99,In,14,Track_2,Artist_2,10,New Age,1977-04-05
+1005,DVD,19.99,In,7,DVDMovie_1,,100,Studio_1,2014-06-07
+1006,DVD,24.99,In,7,DVDMovie_2,,99,Studio_1,2011-08-15
+1007,Book,21.99,In,6,Book_3,Author_3,2222222222222,Biography,
+1008,AudioCD,1.99,In,88,edidedCDTitle,kackson,3,New Age,1996
+1009,DVD,9.98,In,2,dingdongCD,,98,A-3Pictures,888
