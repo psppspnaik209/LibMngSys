@@ -1,5 +1,5 @@
-a.out: main.o Book.o Patron.o Loan.o PatronCollection.o LoanCollection.o AudioCD.o BookChild.o DVD.o LibraryItem.o LibraryItemCollection.o
-	g++ -o a.out main.o Book.o Patron.o Loan.o PatronCollection.o LoanCollection.o AudioCD.o BookChild.o DVD.o LibraryItem.o LibraryItemCollection.o
+a.exe: main.o Book.o Patron.o Loan.o PatronCollection.o LoanCollection.o AudioCD.o BookChild.o DVD.o LibraryItem.o LibraryItemCollection.o
+	g++ main.o Book.o Patron.o Loan.o PatronCollection.o LoanCollection.o AudioCD.o BookChild.o DVD.o LibraryItem.o LibraryItemCollection.o
 
 main.o: main.cpp Book.h Patron.h Loan.h PatronCollection.h LoanCollection.h
 	g++ -c main.cpp
