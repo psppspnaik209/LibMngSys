@@ -23,7 +23,6 @@ https://www.gnu.org/software/make/
 
 **makefile is provided & can be run with 'make' command**
 
-for now it makes a.out executable for Linux systems
 
 or else it can be compiled using
 
